@@ -18,6 +18,6 @@ by foregoing higher-than-sufficient quality levels.
 
 ### Known issues
 
-Collision with [`yarn test`](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/yarn#aliases)
-alias.
+- Collision with [`yarn test`](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/yarn#aliases)
+alias
  
