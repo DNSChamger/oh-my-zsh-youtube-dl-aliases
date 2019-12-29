@@ -20,4 +20,6 @@ by foregoing higher-than-sufficient quality levels.
 
 - Collision with [`yarn test`](https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/yarn#aliases)
 alias
+- To view format list only, use `ytf https://URL.to/the/video`,
+  abort prompt with <kbd>Ctrl</kbd>+<kbd>C</kbd>
  
