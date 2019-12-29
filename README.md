@@ -2,7 +2,8 @@
 
 ### Aliases: See [`youtube-dl.plugin.zsh`](youtube-dl.plugin.zsh) 
 
-They tend to favor faster downloads & less storage use
+They tend to favor royalty-free file formats,
+as well as faster downloads & less storage use
 by foregoing higher-than-sufficient quality levels.
 
 ### Usage: `yt… https://URL.to/the/video`
